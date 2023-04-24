@@ -1,0 +1,26 @@
+
+.Line{
+    margin: 2px auto;
+    background-color: black;
+    height: 10px;
+    width: 50px;
+}
+body{
+    text-align: center;
+}
+.Apps{
+    background-color: rgb(85, 228, 173);
+    margin: 8px auto;
+}
+.Games{
+    background: rgb(167, 81, 175);
+    margin: 8px auto;
+    
+}
+img{
+    width: 400px;
+    height: 600px;
+}
+.Chatbot{
+    background: rgb(103, 151, 170);
+}
